@@ -5,6 +5,7 @@ class areaofcircle
 public static void main(String args[])
 {
 Scanner sc=new Scanner(System.in);
+gftrd5e
  float radius ,area,circumference;
 System.out.println("enter the radius");
 radius=sc.nextFloat();
